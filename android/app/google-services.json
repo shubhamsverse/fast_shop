@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1068771384190",
+    "project_id": "fastshop-806ad",
+    "storage_bucket": "fastshop-806ad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1068771384190:android:abd20d6617c5eb864c712f",
+        "android_client_info": {
+          "package_name": "com.example.fast_shop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1068771384190-as5t2c6idpfe8rl5u373mcm0a392a1b6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmQd1KeBvOXg29Se0KJcGd3MPLanIzfkM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1068771384190-as5t2c6idpfe8rl5u373mcm0a392a1b6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
